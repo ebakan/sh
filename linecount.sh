@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #get the proper dir from either the command line or default to the current directory
 dir=.;
